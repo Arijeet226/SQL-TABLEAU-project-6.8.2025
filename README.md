@@ -7,3 +7,5 @@ LINK-https://github.com/Arijeet226/SQL-TABLEAU-project-6.8.2025/blob/28869a309a0
 ## To get the final tableau part refer to this link
 LINK-https://github.com/Arijeet226/SQL-TABLEAU-project-6.8.2025/blob/1d113fc4caadfaf48bbe701502ddc55662035f42/_Dark%20Green%20and%20Light%20Green%20Minimalist%20Climate%20Change%20Presentation.pdf
 ## DATA SOURCE -https://github.com/Arijeet226/SQL-TABLEAU-project-6.8.2025/tree/c75c0c2781c592d8defff887dedd612aa4bf652d/OG_DATA
+**Screenshot of dashboard:**  
+![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project2_03.08.2025/blob/d29c0e962159d2028affeced3490acea480db03a/Screenshot%202025-08-03%20194004.png)
